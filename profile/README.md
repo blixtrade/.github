@@ -46,6 +46,19 @@ Every tool runs with Node.js and nothing else: no dependencies, no API keys, MIT
 
 ---
 
+### Want to contribute?
+
+Every tool here is plain Node.js 22 with **zero dependencies**. No `npm install`, no API keys, no accounts. Clone it, run `npm test` offline, and you are set up.
+
+- **[Browse every open good first issue →](https://github.com/search?q=org%3Ablixtrade+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)**
+- **[Browse the bigger pieces (help wanted) →](https://github.com/search?q=org%3Ablixtrade+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22&type=issues)**
+
+Each issue names the exact files and lines to change and ends with a **Done when** line, so you know when you are finished. Comment to claim one and it is yours. Pull requests are reviewed the same day, and every repo has a pinned **Contributors wanted: start here** issue if you would rather browse per project.
+
+First open-source contribution? These are a good place to start, and nobody will mind the questions.
+
+---
+
 ### Want it all in one place?
 
 These tools are small, honest versions of what **[BLIX](https://blixvip.com/tools?utm_source=github&utm_medium=org-profile)** does live: AI ratings on every pump.fun launch, narrative tracking, wallet and X tracking, holder ledgers and one-click trading with **0% fees**. Sign in with Google, nothing to install.
