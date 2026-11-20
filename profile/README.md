@@ -46,6 +46,12 @@ Every tool runs with Node.js and nothing else: no dependencies, no API keys, MIT
 
 ---
 
+### Website
+
+Every tool has its own page, plus live bubble maps you can open without installing anything: **[blixtrade.github.io](https://blixtrade.github.io)**
+
+---
+
 ### Want to contribute?
 
 Every tool here is plain Node.js 22 with **zero dependencies**. No `npm install`, no API keys, no accounts. Clone it, run `npm test` offline, and you are set up.
